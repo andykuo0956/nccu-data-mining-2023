@@ -14,8 +14,11 @@
 
 ## Data Preparation：
 Step1 : 移除資料中缺失值
+
 Step2 : 計算每個顧客的Recency,Frequency,Monetary值
+
 Step3 : 移除outlier值
+
 Step4 : 進行正規化，減少資料之間的將不同特徵的數值範圍縮放到相同的尺度或範圍來提高模型的性能
 
 ## Data Analysis：
